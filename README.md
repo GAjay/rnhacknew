@@ -4,7 +4,7 @@ The idea behind this project is to design the clone of hacker news website using
 
 To populate the votes in a line chart, it uses [react-chartkick](https://www.npmjs.com/package/react-chartkick) npm modules.
 
-And the application has been built with [Travis-CI (continuous integration)](https://travis-ci.com/) and deployed to [Heroku](https://react-hn-clone.herokuapp.com/).
+And the application has been built with [Travis-CI (continuous integration)](https://travis-ci.com/) and deployed to [Heroku](https://reacthnde.herokuapp.com/).
 
 <img src="screenshot/thumbnail.png"/>
 
@@ -13,12 +13,12 @@ And the application has been built with [Travis-CI (continuous integration)](htt
 </p>
 
 ### Website link
-[https://react-hn-clone.herokuapp.com/](https://react-hn-clone.herokuapp.com/)
+[https://reacthnde.herokuapp.com//](https://reacthnde.herokuapp.com/)
 
 ### Installation
 ````````````````````````````````````````````````````````````````````````````
-git clone https://github.com/anshumanpattnaik/react-js-hacker-news-clone.git
-cd react-js-hacker-news-clone
+git clone https://github.com/GAjay/rnhacknew.git
+cd rnhacknew
 yarn add
 yarn run start
 ````````````````````````````````````````````````````````````````````````````
