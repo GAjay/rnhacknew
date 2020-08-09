@@ -6,11 +6,7 @@ To populate the votes in a line chart, it uses [react-chartkick](https://www.npm
 
 And the application has been built with [Travis-CI (continuous integration)](https://travis-ci.com/) and deployed to [Heroku](https://reacthnde.herokuapp.com/).
 
-<img src="screenshot/thumbnail.png"/>
 
-<p>
-    <img src="screenshot/votes_graph.PNG"/>
-</p>
 
 ### Website link
 [https://reacthnde.herokuapp.com//](https://reacthnde.herokuapp.com/)
