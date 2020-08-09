@@ -9,7 +9,7 @@ And the application has been built with [Travis-CI (continuous integration)](htt
 
 
 ### Website link
-[https://reacthnde.herokuapp.com//](https://reacthnde.herokuapp.com/)
+[https://reacthnde.herokuapp.com/](https://reacthnde.herokuapp.com/)
 
 ### Installation
 ````````````````````````````````````````````````````````````````````````````
